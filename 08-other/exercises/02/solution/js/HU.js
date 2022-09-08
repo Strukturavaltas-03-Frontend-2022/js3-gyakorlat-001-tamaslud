@@ -15,6 +15,7 @@ const HU = {
 
 export default HU;
 
+
 /*
 2. Készíts egy `HU` nevű objektumot, aminek az alábbi propertijei vannak:
 - `date()`: Visszaadja a paraméterként megadott dátumot a magyar dátumírás

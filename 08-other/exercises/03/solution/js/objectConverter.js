@@ -6,11 +6,10 @@ const objectConverter = {
     });
     return newMap;
   },
-
   arrayToSet(array) {
     return new Set(array);
   },
-
+//
   setToMap(set) {
     const newMap = new Map([]);
     const array = Array.from(set);

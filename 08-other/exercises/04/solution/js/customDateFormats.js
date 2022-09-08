@@ -7,6 +7,7 @@ const customDateFormats = (date = new Date()) => {
 export default customDateFormats;
 
 /*
+
 4. Írj egy függvényt `customDateFormats` néven, ami paraméterként egy
 Date objektumot kap, a visszatérési értéke pedig egy objektum két
 tulajdonsággal, ami a következő formátumban tartalmazza a paraméterként kapott dátumot:

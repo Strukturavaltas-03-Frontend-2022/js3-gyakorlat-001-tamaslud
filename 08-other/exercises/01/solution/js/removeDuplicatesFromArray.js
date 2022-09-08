@@ -2,6 +2,7 @@ const removeDuplicatesFromArray = (arr = []) => Array.from(new Set(arr));
 
 export default removeDuplicatesFromArray;
 
+
 /*
 const removeDuplicatesFromArray = (arr = []) => {
   const cleanArray = [];
